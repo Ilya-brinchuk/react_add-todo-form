@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,cACE,SACF","file":"main.88543e80.chunk.css","sourcesContent":[".App {\r\n  text-align: center;\r\n}\r\n\r\n.errorMessage {\r\n  color: red;\r\n}\r\n"]}
